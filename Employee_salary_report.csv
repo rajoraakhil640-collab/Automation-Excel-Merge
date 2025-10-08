@@ -1,0 +1,257 @@
+Employee_ID, Name,Department ,Salary,Status
+1582,Mara,Sales,52000.0,Matched
+1582,Mara,Sales,30000.0,Matched
+2587,Philip,Legal,,Not Found
+2587,Philip,Legal,52000.0,Matched
+2587,Philip,Legal,85000.0,Matched
+2587,Philip,Legal,78000.0,Matched
+3549,Kathleen,Retail,26000.0,Matched
+3549,Kathleen,Retail,,Not Found
+2468,Nereida,Accounting ,30000.0,Matched
+2468,Nereida,Accounting ,56000.0,Matched
+2554,Gaston,Support ,85000.0,Matched
+2554,Gaston,Support ,47000.0,Matched
+3598,Etta,Business Development ,24000.0,Matched
+3598,Etta,Business Development ,300000.0,Matched
+2456,Earlean,Human Resource,52000.0,Matched
+2456,Earlean,Human Resource,24000.0,Matched
+6548,Vincenza,Sales,,Not Found
+6548,Vincenza,Sales,52000.0,Matched
+5486,Fallon,Sales,26000.0,Matched
+5486,Fallon,Sales,78000.0,Matched
+1258,Arcelia,Legal,30000.0,Matched
+1258,Arcelia,Legal,26000.0,Matched
+2579,Franklyn,Retail,85000.0,Matched
+2579,Franklyn,Retail,30000.0,Matched
+3256,Sherron,Accounting ,,Not Found
+3256,Sherron,Accounting ,30000.0,Matched
+3256,Sherron,Accounting ,85000.0,Matched
+3256,Sherron,Accounting ,52822.0,Matched
+2587,Marcel,Support ,,Not Found
+2587,Marcel,Support ,52000.0,Matched
+2587,Marcel,Support ,85000.0,Matched
+2587,Marcel,Support ,78000.0,Matched
+3259,Kina,Business Development ,78000.0,Matched
+3259,Kina,Business Development ,85000.0,Matched
+3259,Kina,Business Development ,56000.0,Matched
+3259,Kina,Business Development ,73000.0,Matched
+1546,Shavonne,Sales,26000.0,Matched
+1546,Shavonne,Sales,47000.0,Matched
+3579,Shavon,Legal,30000.0,Matched
+3579,Shavon,Legal,300000.0,Matched
+6597,Lauralee,Retail,85000.0,Matched
+6597,Lauralee,Retail,24000.0,Matched
+9654,Loreta,Accounting ,24000.0,Matched
+9654,Loreta,Accounting ,52000.0,Matched
+3569,Teresa,Support ,52000.0,Matched
+3569,Teresa,Support ,855800.0,Matched
+2564,Belinda,Business Development ,78000.0,Matched
+2564,Belinda,Business Development ,26000.0,Matched
+8561,Holly,Sales,26000.0,Matched
+8561,Holly,Sales,30000.0,Matched
+5489,Many,Legal,30000.0,Matched
+5489,Many,Legal,85000.0,Matched
+5489,Many,Legal,85000.0,Matched
+5489,Many,Legal,78000.0,Matched
+5489,Libbie,Retail,30000.0,Matched
+5489,Libbie,Retail,85000.0,Matched
+5489,Libbie,Retail,85000.0,Matched
+5489,Libbie,Retail,78000.0,Matched
+6574,Lester,Accounting ,,Not Found
+6574,Lester,Accounting ,56000.0,Matched
+5555,Marvel,Support ,52000.0,Matched
+5555,Marvel,Support ,47000.0,Matched
+6125,Angelyn,Business Development ,78000.0,Matched
+6125,Angelyn,Business Development ,78000.0,Matched
+6125,Angelyn,Business Development ,300000.0,Matched
+6125,Angelyn,Business Development ,,Not Found
+5412,Francesca,Sales,26000.0,Matched
+5412,Francesca,Sales,24000.0,Matched
+3256,Garth,Legal,,Not Found
+3256,Garth,Legal,30000.0,Matched
+3256,Garth,Legal,85000.0,Matched
+3256,Garth,Legal,52822.0,Matched
+3264,Carla,Retail,85000.0,Matched
+3264,Carla,Retail,78000.0,Matched
+4569,Veta,Accounting ,78000.0,Matched
+4569,Veta,Accounting ,26000.0,Matched
+7521,Stasia,Support ,56000.0,Matched
+7521,Stasia,Support ,855000.0,Matched
+6458,Jona,Business Development ,47000.0,Matched
+6458,Jona,Business Development ,85000.0,Matched
+7569,Judie,Sales,,Not Found
+7569,Judie,Sales,84000.0,Matched
+8514,Dewitt,Legal,54000.0,Matched
+8514,Dewitt,Legal,56000.0,Matched
+8563,Nena,Retail,100000.0,Matched
+8563,Nena,Retail,47000.0,Matched
+8642,Kelsie,Accounting ,520000.0,Matched
+8642,Kelsie,Accounting ,300000.0,Matched
+9536,Sau,Support ,24000.0,Matched
+9536,Sau,Support ,46000.0,Matched
+2567,Shanice,Business Development ,52000.0,Matched
+2567,Shanice,Business Development ,21000.0,Matched
+2154,Chase,Sales,78000.0,Matched
+2154,Chase,Sales,24000.0,Matched
+3265,Tommie,Legal,24000.0,Matched
+3265,Tommie,Legal,52000.0,Matched
+3265,Tommie,Legal,52000.0,Matched
+3265,Tommie,Legal,47000.0,Matched
+3265,Tommie,Legal,300000.0,Matched
+8765,Dorcas,Retail,30000.0,Matched
+8765,Dorcas,Retail,78000.0,Matched
+3259,Angel,Accounting ,78000.0,Matched
+3259,Angel,Accounting ,85000.0,Matched
+3259,Angel,Accounting ,56000.0,Matched
+3259,Angel,Accounting ,73000.0,Matched
+3567,Willodean,Support ,78000.0,Matched
+3567,Willodean,Support ,30000.0,Matched
+6540,Weston,Business Development ,56000.0,Matched
+6540,Weston,Business Development ,85000.0,Matched
+2654,Roma,Sales,,Not Found
+2654,Roma,Sales,78000.0,Matched
+6525,Felisa,Legal,300000.0,Matched
+6525,Felisa,Legal,56000.0,Matched
+3265,Demetria,Retail,24000.0,Matched
+3265,Demetria,Retail,52000.0,Matched
+3265,Demetria,Retail,52000.0,Matched
+3265,Demetria,Retail,47000.0,Matched
+3265,Demetria,Retail,300000.0,Matched
+3265,Jeromy,Accounting ,24000.0,Matched
+3265,Jeromy,Accounting ,52000.0,Matched
+3265,Jeromy,Accounting ,52000.0,Matched
+3265,Jeromy,Accounting ,47000.0,Matched
+3265,Jeromy,Accounting ,300000.0,Matched
+6125,Rasheeda,Support ,78000.0,Matched
+6125,Rasheeda,Support ,78000.0,Matched
+6125,Rasheeda,Support ,300000.0,Matched
+6125,Rasheeda,Support ,,Not Found
+1562,Dulce,Business Development ,24000.0,Matched
+1562,Dulce,Business Development ,,Not Found
+1582,Mara,Sales,52000.0,Matched
+1582,Mara,Sales,30000.0,Matched
+2587,Philip,Legal,,Not Found
+2587,Philip,Legal,52000.0,Matched
+2587,Philip,Legal,85000.0,Matched
+2587,Philip,Legal,78000.0,Matched
+3549,Kathleen,Retail,26000.0,Matched
+3549,Kathleen,Retail,,Not Found
+2468,Nereida,Accounting ,30000.0,Matched
+2468,Nereida,Accounting ,56000.0,Matched
+2554,Gaston,Support ,85000.0,Matched
+2554,Gaston,Support ,47000.0,Matched
+3598,Etta,Business Development ,24000.0,Matched
+3598,Etta,Business Development ,300000.0,Matched
+2456,Earlean,Sales,52000.0,Matched
+2456,Earlean,Sales,24000.0,Matched
+6548,Vincenza,Legal,,Not Found
+6548,Vincenza,Legal,52000.0,Matched
+5486,Fallon,Retail,26000.0,Matched
+5486,Fallon,Retail,78000.0,Matched
+1258,Arcelia,Accounting ,30000.0,Matched
+1258,Arcelia,Accounting ,26000.0,Matched
+2579,Franklyn,Support ,85000.0,Matched
+2579,Franklyn,Support ,30000.0,Matched
+3256,Sherron,Business Development ,,Not Found
+3256,Sherron,Business Development ,30000.0,Matched
+3256,Sherron,Business Development ,85000.0,Matched
+3256,Sherron,Business Development ,52822.0,Matched
+2587,Marcel,Sales,,Not Found
+2587,Marcel,Sales,52000.0,Matched
+2587,Marcel,Sales,85000.0,Matched
+2587,Marcel,Sales,78000.0,Matched
+3259,Kina,Legal,78000.0,Matched
+3259,Kina,Legal,85000.0,Matched
+3259,Kina,Legal,56000.0,Matched
+3259,Kina,Legal,73000.0,Matched
+1546,Shavonne,Retail,26000.0,Matched
+1546,Shavonne,Retail,47000.0,Matched
+3579,Shavon,Accounting ,30000.0,Matched
+3579,Shavon,Accounting ,300000.0,Matched
+6597,Lauralee,Support ,85000.0,Matched
+6597,Lauralee,Support ,24000.0,Matched
+9654,Loreta,Business Development ,24000.0,Matched
+9654,Loreta,Business Development ,52000.0,Matched
+3569,Teresa,Sales,52000.0,Matched
+3569,Teresa,Sales,855800.0,Matched
+2564,Belinda,Legal,78000.0,Matched
+2564,Belinda,Legal,26000.0,Matched
+8561,Holly,Retail,26000.0,Matched
+8561,Holly,Retail,30000.0,Matched
+5489,Many,Accounting ,30000.0,Matched
+5489,Many,Accounting ,85000.0,Matched
+5489,Many,Accounting ,85000.0,Matched
+5489,Many,Accounting ,78000.0,Matched
+5489,Libbie,Support ,30000.0,Matched
+5489,Libbie,Support ,85000.0,Matched
+5489,Libbie,Support ,85000.0,Matched
+5489,Libbie,Support ,78000.0,Matched
+6574,Lester,Business Development ,,Not Found
+6574,Lester,Business Development ,56000.0,Matched
+5555,Marvel,Sales,52000.0,Matched
+5555,Marvel,Sales,47000.0,Matched
+6125,Angelyn,Legal,78000.0,Matched
+6125,Angelyn,Legal,78000.0,Matched
+6125,Angelyn,Legal,300000.0,Matched
+6125,Angelyn,Legal,,Not Found
+5412,Francesca,Retail,26000.0,Matched
+5412,Francesca,Retail,24000.0,Matched
+3256,Garth,Accounting ,,Not Found
+3256,Garth,Accounting ,30000.0,Matched
+3256,Garth,Accounting ,85000.0,Matched
+3256,Garth,Accounting ,52822.0,Matched
+3264,Carla,Support ,85000.0,Matched
+3264,Carla,Support ,78000.0,Matched
+4569,Veta,Business Development ,78000.0,Matched
+4569,Veta,Business Development ,26000.0,Matched
+7521,Stasia,Sales,56000.0,Matched
+7521,Stasia,Sales,855000.0,Matched
+6458,Jona,Legal,47000.0,Matched
+6458,Jona,Legal,85000.0,Matched
+7569,Judie,Retail,,Not Found
+7569,Judie,Retail,84000.0,Matched
+8514,Dewitt,Accounting ,54000.0,Matched
+8514,Dewitt,Accounting ,56000.0,Matched
+8563,Nena,Support ,100000.0,Matched
+8563,Nena,Support ,47000.0,Matched
+8642,Kelsie,Business Development ,520000.0,Matched
+8642,Kelsie,Business Development ,300000.0,Matched
+9536,Sau,Human Resource,24000.0,Matched
+9536,Sau,Human Resource,46000.0,Matched
+2567,Shanice,Sales,52000.0,Matched
+2567,Shanice,Sales,21000.0,Matched
+2154,Chase,Legal,78000.0,Matched
+2154,Chase,Legal,24000.0,Matched
+3265,Tommie,Retail,24000.0,Matched
+3265,Tommie,Retail,52000.0,Matched
+3265,Tommie,Retail,52000.0,Matched
+3265,Tommie,Retail,47000.0,Matched
+3265,Tommie,Retail,300000.0,Matched
+8765,Dorcas,Accounting ,30000.0,Matched
+8765,Dorcas,Accounting ,78000.0,Matched
+3259,Angel,Support ,78000.0,Matched
+3259,Angel,Support ,85000.0,Matched
+3259,Angel,Support ,56000.0,Matched
+3259,Angel,Support ,73000.0,Matched
+3567,Willodean,Business Development ,78000.0,Matched
+3567,Willodean,Business Development ,30000.0,Matched
+6540,Weston,Human Resource,56000.0,Matched
+6540,Weston,Human Resource,85000.0,Matched
+2654,Roma,Sales,,Not Found
+2654,Roma,Sales,78000.0,Matched
+6525,Felisa,Legal,300000.0,Matched
+6525,Felisa,Legal,56000.0,Matched
+3265,Demetria,Retail,24000.0,Matched
+3265,Demetria,Retail,52000.0,Matched
+3265,Demetria,Retail,52000.0,Matched
+3265,Demetria,Retail,47000.0,Matched
+3265,Demetria,Retail,300000.0,Matched
+3265,Jeromy,Accounting ,24000.0,Matched
+3265,Jeromy,Accounting ,52000.0,Matched
+3265,Jeromy,Accounting ,52000.0,Matched
+3265,Jeromy,Accounting ,47000.0,Matched
+3265,Jeromy,Accounting ,300000.0,Matched
+6125,Rasheeda,Support ,78000.0,Matched
+6125,Rasheeda,Support ,78000.0,Matched
+6125,Rasheeda,Support ,300000.0,Matched
+6125,Rasheeda,Support ,,Not Found
