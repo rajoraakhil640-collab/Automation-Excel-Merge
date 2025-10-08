@@ -100,8 +100,8 @@ Unmatched rows highlighted in red inside merged_output_20251007_193015.xlsx
 
 | Employee_ID | Name      | Department | Salary  | Status      |
 |--------------|-----------|-------------|----------|--------------|
-| EMP001       | John Doe  | IT          | 60000    | Matched      |
-| EMP002       | Alice Johnson | HR          | *blank*  | Not Found  |
+| EMP001       | John Doe  | HR         | 60000    | Matched      |
+| EMP002       | Alice Johnson | IT        | *blank*  | Not Found  |
 
 Rows with missing salary values are highlighted in red*in Excel.
 
