@@ -1,4 +1,4 @@
-🧾 Employee-Salary Data Merger (VLOOKUP-style)
+Excel Data Processing (VLOOKUP Alternative)
 
 This project reads two Excel files — one containing employee details and another containing salary data — then merges them automatically (like Excel VLOOKUP).  
 It produces both Excel and CSV outputs with clear highlighting for missing salary data.
