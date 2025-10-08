@@ -82,10 +82,6 @@ Total Employees : 3
 Matched Records : 2
 Unmatched Records : 1
 
-Output saved as:
-   Excel → merged_output_20251007_193015.xlsx
-   CSV   → merged_output_20251007_193015.csv
-
 Unmatched rows highlighted in red inside merged_output_20251007_193015.xlsx
 ```
 
@@ -104,8 +100,8 @@ Unmatched rows highlighted in red inside merged_output_20251007_193015.xlsx
 
 | Employee_ID | Name      | Department | Salary  | Status      |
 |--------------|-----------|-------------|----------|--------------|
-| EMP001       | Alice Lee | IT          | 60000    | Matched      |
-| EMP002       | John Doe  | HR          | *blank*  | Not Found  |
+| EMP001       | John Doe  | IT          | 60000    | Matched      |
+| EMP002       | Alice Johnson | HR          | *blank*  | Not Found  |
 
 Rows with missing salary values are highlighted in red*in Excel.
 
