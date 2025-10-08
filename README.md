@@ -102,6 +102,7 @@ Unmatched rows highlighted in red inside merged_output_20251007_193015.xlsx
 |--------------|-----------|-------------|----------|--------------|
 | EMP001       | John Doe  | HR         | 60000    | Matched      |
 | EMP002       | Alice Johnson | IT        | *blank*  | Not Found  |
+| EMP003       | Mark Smith  | Sales       |  72000 | Matched        |
 
 Rows with missing salary values are highlighted in red*in Excel.
 
